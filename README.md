@@ -2,9 +2,9 @@
 
 Go bindings for the Zabbix API
 
-[![go report card](https://goreportcard.com/badge/github.com/cavaliercoder/go-zabbix "go report card")](https://goreportcard.com/report/github.com/cavaliercoder/go-zabbix)
+[![go report card](https://goreportcard.com/badge/github.com/zekiahmetbayar/go-zabbix "go report card")](https://goreportcard.com/report/github.com/zekiahmetbayar/go-zabbix)
 [![GPL license](https://img.shields.io/badge/license-GPL-brightgreen.svg)](https://opensource.org/licenses/gpl-license)
-[![GoDoc](https://godoc.org/github.com/cavaliercoder/go-zabbix?status.svg)](https://godoc.org/github.com/cavaliercoder/go-zabbix)
+[![GoDoc](https://godoc.org/github.com/zekiahmetbayar/go-zabbix?status.svg)](https://godoc.org/github.com/zekiahmetbayar/go-zabbix)
 
 ## Overview
 
@@ -30,7 +30,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/cavaliercoder/go-zabbix"
+	"github.com/zekiahmetbayar/go-zabbix"
 )
 
 func main() {
@@ -83,4 +83,4 @@ func main() {
 
 ## License
 
-Released under the [GNU GPL License](https://github.com/cavaliercoder/go-zabbix/blob/master/LICENSE)
+Released under the [GNU GPL License](https://github.com/zekiahmetbayar/go-zabbix/blob/master/LICENSE)
